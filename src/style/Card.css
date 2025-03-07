@@ -1,0 +1,12 @@
+:root {
+    --font-color: #dadada;
+    --background-color: #010001;
+    --border-color: #2E3337;
+}
+
+.baseCard {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+}
